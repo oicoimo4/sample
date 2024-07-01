@@ -1,4 +1,4 @@
-baseURL: https://github.com/oicoimo4/sample
+baseURL: https://oicoimo4.github.io/sample/
 languageCode: en-us
 title: My New Hugo Site
 publishDir: docs

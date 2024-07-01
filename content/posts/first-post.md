@@ -1,5 +1,6 @@
 +++
 title = 'First Post'
 date = 2024-07-01T23:37:26+09:00
-draft = true
 +++
+
+#こんにちは、おいもです。
